@@ -1,4 +1,4 @@
-               // HEART SECTION
+               // HEART CASE
 const heartCounter = document.getElementById('heartCount');
 const everyHearts = document.querySelectorAll('.fa-heart');
 const cardHearts = Array.from(everyHearts).slice(1);
